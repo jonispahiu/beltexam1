@@ -1,0 +1,17 @@
+.d-flex{
+    display: flex;
+}
+.user{
+    justify-content: space-evenly;
+}
+.container{
+    border: 5px solid black;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.user button{
+    background-color: orange;
+}
